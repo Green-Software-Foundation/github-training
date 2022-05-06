@@ -1,4 +1,4 @@
-# Getting started with GitHub and GitHub Pages
-Materials DASH tutorial: **Getting started with GitHub and GitHub Pages**  
+# Getting started with GitHub 
+Materials DASH tutorial: **Getting started with GitHub**  
 
 GitHub training - https://green-software-foundation.github.io/github-training/
